@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dL5wPHicI0O_Hd0k0G8IQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practicetestautomation.com/practice-test-login" CVScreenId="91a36870-ae86-4376-97e9-ee9b078d51ba" CvElementArea="381, 535, 132, 57" CvTextArea="422, 557, 51, 14" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="384, 537, 127, 54" ElementType="Button" FullSelectorArgument="&lt;webctrl id='submit' tag='BUTTON' /&gt;" Guid="f30a995d-d931-491f-8e58-aea74af67c83" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Test Login | Practice Test Automation' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="a1e9e3e9a741d20f09d80a582f4eda09.png" xmlns="">0umZ7kJRDe0yzhcI2hVtN6g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

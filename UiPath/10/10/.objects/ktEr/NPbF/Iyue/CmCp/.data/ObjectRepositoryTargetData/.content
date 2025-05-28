@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mBacyTV1EUunNjNFvRPpnw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="practicetestautomation.com/logged-in-successfully" CVScreenId="33857b13-bf18-474e-9621-3ea508c719c8" CvElementArea="323, 459, 720, 67" CvTextArea="650, 484, 68, 21" CvTextArgument="Log out" CvType="Button" DesignTimeRectangle="325, 461, 717, 63" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='loop-container' tag='A' /&gt;" Guid="ab0234d0-1177-4e62-9479-97f2de579025" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Logged In Successfully | Practice Test Automation' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="e1cfb72962f7e22262f32de5e9e68857.png" xmlns="">0cQ08FMWwukuYe4-uUoTrhA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
